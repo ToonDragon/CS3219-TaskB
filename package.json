@@ -1,0 +1,28 @@
+{
+  "name": "cs3219-taskb",
+  "version": "1.0.0",
+  "description": "Simple App for CS3219",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToonDragon/CS3219-TaskB.git"
+  },
+  "author": "Darren Lee Wei Sheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToonDragon/CS3219-TaskB/issues"
+  },
+  "homepage": "https://github.com/ToonDragon/CS3219-TaskB#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.14"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
